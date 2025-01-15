@@ -1,5 +1,5 @@
 # Template-HOSTIT-HTML
-it free you can use it , i need more star <3
+
 <h1>About Web<h1/>
 
 ![Screenshot 2023-08-25 131227](https://github.com/ThienObito/Template-HOSTIT-HTML/assets/93480106/5d285337-e671-4c03-b070-dd8490cd6aa6)
